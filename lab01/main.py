@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from scipy import stats
 
 # Порядковий номер варіанта за журналом
-N = 7
+N = 5
 
 output_dir = "plots"
 os.makedirs(output_dir, exist_ok=True)
