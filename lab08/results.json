@@ -1,0 +1,192 @@
+{
+  "Лексикографічний метод Q2 > Q1 > Q3 > Q4": {
+    "winners": [
+      1
+    ],
+    "steps": [
+      {
+        "criterion": 2,
+        "before": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "best": 5,
+        "concession": 0,
+        "threshold": 5,
+        "remaining": [
+          1
+        ]
+      },
+      {
+        "criterion": 1,
+        "before": [
+          1
+        ],
+        "best": 5,
+        "concession": 0,
+        "threshold": 5,
+        "remaining": [
+          1
+        ]
+      },
+      {
+        "criterion": 3,
+        "before": [
+          1
+        ],
+        "best": 5,
+        "concession": 0,
+        "threshold": 5,
+        "remaining": [
+          1
+        ]
+      },
+      {
+        "criterion": 4,
+        "before": [
+          1
+        ],
+        "best": 4,
+        "concession": 0,
+        "threshold": 4,
+        "remaining": [
+          1
+        ]
+      }
+    ]
+  },
+  "Лексикографічний метод Q4 > Q1 > Q2 > Q3": {
+    "winners": [
+      2
+    ],
+    "steps": [
+      {
+        "criterion": 4,
+        "before": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "best": 5,
+        "concession": 0,
+        "threshold": 5,
+        "remaining": [
+          2
+        ]
+      },
+      {
+        "criterion": 1,
+        "before": [
+          2
+        ],
+        "best": 0,
+        "concession": 0,
+        "threshold": 0,
+        "remaining": [
+          2
+        ]
+      },
+      {
+        "criterion": 2,
+        "before": [
+          2
+        ],
+        "best": 3,
+        "concession": 0,
+        "threshold": 3,
+        "remaining": [
+          2
+        ]
+      },
+      {
+        "criterion": 3,
+        "before": [
+          2
+        ],
+        "best": 1,
+        "concession": 0,
+        "threshold": 1,
+        "remaining": [
+          2
+        ]
+      }
+    ]
+  },
+  "Послідовні поступки Q1 > Q2 > Q3 > Q4": {
+    "winners": [
+      1
+    ],
+    "steps": [
+      {
+        "criterion": 1,
+        "before": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "best": 5,
+        "concession": 1,
+        "threshold": 4,
+        "remaining": [
+          0,
+          1,
+          6
+        ]
+      },
+      {
+        "criterion": 2,
+        "before": [
+          0,
+          1,
+          6
+        ],
+        "best": 5,
+        "concession": 2,
+        "threshold": 3,
+        "remaining": [
+          1
+        ]
+      },
+      {
+        "criterion": 3,
+        "before": [
+          1
+        ],
+        "best": 5,
+        "concession": 3,
+        "threshold": 2,
+        "remaining": [
+          1
+        ]
+      },
+      {
+        "criterion": 4,
+        "before": [
+          1
+        ],
+        "best": 4,
+        "concession": 0,
+        "threshold": 4,
+        "remaining": [
+          1
+        ]
+      }
+    ]
+  }
+}
